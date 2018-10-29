@@ -7,9 +7,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-        <h2>Welcome to React</h2>
+          <h2>Welcome to Codaisseur</h2>
           <img src={logo} className="App-logo" alt="logo" />
-          <p>
+          {/* <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
           <a
@@ -19,7 +19,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
-          </a>
+          </a> */}
         </header>
       </div>
     );
